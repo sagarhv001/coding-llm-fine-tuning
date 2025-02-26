@@ -10,6 +10,6 @@ Evaluation: Quantitative and qualitative accuracy testing
 Storage: Results saved to Google Drive due to Kaggle’s lack of persistent storage
 
 ## training metrics
-![training loss](images/my_image.png)
-![learning rate](images/my_image.png)
+![training loss](https://github.com/sagarhv001/coding-llm-fine-tuning/blob/main/W%26B_train_loss.png)
+![learning rate](https://github.com/sagarhv001/coding-llm-fine-tuning/blob/main/W%26B_learning_rate.png)
 
