@@ -11,5 +11,5 @@ Storage: Results saved to Google Drive due to Kaggle’s lack of persistent stor
 
 ## training metrics
 ![training loss](https://github.com/sagarhv001/coding-llm-fine-tuning/blob/main/W%26B_train_loss.png)
-![learning rate](https://github.com/sagarhv001/coding-llm-fine-tuning/blob/main/W%26B_learning_rate.png)
+![learning rate](https://github.com/sagarhv001/coding-llm-fine-tuning/blob/main/W%26B%20learning_rate.png)
 
